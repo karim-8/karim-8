@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/kariiim_a" target="blank"><img src="https://img.shields.io/twitter/follow/kariiim_a?logo=twitter&style=for-the-badge" alt="kariiim_a" /></a> </p>
 
-- 🔭 I’m currently working on [Ana vodafone](https://www.ibm.com/us-en)
+- 🔭 I’m currently working in [IBM](https://www.ibm.com/us-en)
 
 - 👯 I’m looking to collaborate on **any open source project**
 
